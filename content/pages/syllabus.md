@@ -22,12 +22,63 @@ We will devote our time this term to three activities. First, we will study the 
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and active participation in all class meetings | 20% |
-| Four forum postings reflecting comparatively on books in the Early Modern period and today | 20% |
-|  {{< br >}}{{< br >}} Two five-page papers {{< br >}}{{< br >}} _Topics may include the political, cultural, and economic effects of printing in the Early Modern world; detailed bibliographical and content analysis of holdings in MIT's [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html); reports on progress made towards building a printing press._ {{< br >}}{{< br >}}  | 30% |
-| Class project to design and build a handset printing press, with appropriate guidance from the Director of the MIT Hobby Shop | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and active participation in all class meetings
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four forum postings reflecting comparatively on books in the Early Modern period and today
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Two five-page papers
+
+_Topics may include the political, cultural, and economic effects of printing in the Early Modern world; detailed bibliographical and content analysis of holdings in MIT's [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html); reports on progress made towards building a printing press._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class project to design and build a handset printing press, with appropriate guidance from the Director of the MIT Hobby Shop
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Readings
 -----------------
