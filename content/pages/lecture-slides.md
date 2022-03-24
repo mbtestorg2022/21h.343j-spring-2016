@@ -24,7 +24,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pre-1800 Books, Paper, and Printing Presses (PDF - 2.7MB)]({{< baseurl >}}/resources/mit21h_343js16_print)
+[Pre-1800 Books, Paper, and Printing Presses (PDF - 2.7MB)]({{< baseurl >}}/resources/mit21h_343js16_print)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Paper-Making in Eighteenth-Century France and Twenty-First Century Nepal (PDF - 4.0MB)]({{< baseurl >}}/resources/mit21h_343js16_paper)
+[Paper-Making in Eighteenth-Century France and Twenty-First Century Nepal (PDF - 4.0MB)]({{< baseurl >}}/resources/mit21h_343js16_paper)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Book of Hours, Use of Paris, Circa 1450 (PDF)]({{< baseurl >}}/resources/mit21h_343js16_book)
+[The Book of Hours, Use of Paris, Circa 1450 (PDF)]({{< baseurl >}}/resources/mit21h_343js16_book)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Nuremberg Chronicles, 1493, Part I (PDF - 3.0MB)]({{< baseurl >}}/resources/mit21h_343js16_nuremi)
+[The Nuremberg Chronicles, 1493, Part I (PDF - 3.0MB)]({{< baseurl >}}/resources/mit21h_343js16_nuremi)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Nuremberg Chronicles, 1493, Part II (PDF - 4.7MB)]({{< baseurl >}}/resources/mit21h_343js16_nuremii)
+[The Nuremberg Chronicles, 1493, Part II (PDF - 4.7MB)]({{< baseurl >}}/resources/mit21h_343js16_nuremii)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Bible in Print, 1453–1700 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit21h_343js16_bible)
+[The Bible in Print, 1453–1700 (PDF - 1.9MB)]({{< baseurl >}}/resources/mit21h_343js16_bible)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Reformation Images (PDF - 2.8MB)]({{< baseurl >}}/resources/mit21h_343js16_ref)
+[Reformation Images (PDF - 2.8MB)]({{< baseurl >}}/resources/mit21h_343js16_ref)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Natural Philosophy in the Sixteenth and Seventeenth Centuries: Celestial and Earthly Bodies (PDF - 6.7MB)]({{< baseurl >}}/resources/mit21h_343js16_philo)
+[Natural Philosophy in the Sixteenth and Seventeenth Centuries: Celestial and Earthly Bodies (PDF - 6.7MB)]({{< baseurl >}}/resources/mit21h_343js16_philo)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Renaissance Religion and Cartography: Exploring the Role of Print (PDF - 2.7MB)]({{< baseurl >}}/resources/mit21h_343js16_carto)
+[Renaissance Religion and Cartography: Exploring the Role of Print (PDF - 2.7MB)]({{< baseurl >}}/resources/mit21h_343js16_carto)
 {{< tdclose >}}
 
 {{< trclose >}}
