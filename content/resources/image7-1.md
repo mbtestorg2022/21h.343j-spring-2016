@@ -7,6 +7,7 @@ image_metadata:
   caption: An imprint in the tympan and frisket assembly after printing.
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+parent_uid: a8ce3ab1-4edd-d944-05b6-2413bb094d59
 resourcetype: Image
 title: Image7.jpg
 uid: c152e650-a848-f278-a89d-908ce3c332cd

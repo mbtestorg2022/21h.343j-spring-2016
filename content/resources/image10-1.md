@@ -8,6 +8,7 @@ image_metadata:
     Find Them (Beaver Press, Fall 2017).
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+parent_uid: a8ce3ab1-4edd-d944-05b6-2413bb094d59
 resourcetype: Image
 title: Image10.jpg
 uid: d40f6955-514d-650d-385f-c898fb047094

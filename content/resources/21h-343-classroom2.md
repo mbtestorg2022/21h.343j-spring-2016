@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 resourcetype: Image
 title: MIT Hobby Shop
 uid: 921ca4b1-7eeb-48f2-793b-c439c31e1611

@@ -7,6 +7,7 @@ image_metadata:
   caption: Students view printed copies of a booklet.
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+parent_uid: a8ce3ab1-4edd-d944-05b6-2413bb094d59
 resourcetype: Image
 title: Image8.jpg
 uid: 79e94bff-84ba-40da-dca2-7e700a885c5f

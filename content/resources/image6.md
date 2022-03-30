@@ -8,6 +8,7 @@ image_metadata:
   credit: Photograph by Jonathan Sachs / Jonathan Sachs Graphics, Inc.
   image-alt: Four glove-wearing students stand over plastic water-filled containers
     filled with a pink, cotton-like substance.
+parent_uid: 38659a33-436d-bde7-c9d6-e20765d008ed
 resourcetype: Image
 title: Image6.jpg
 uid: 1f23122c-e3fa-8ee0-17b3-521c41968ebb

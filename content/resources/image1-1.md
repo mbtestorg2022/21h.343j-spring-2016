@@ -9,6 +9,7 @@ image_metadata:
   credit: Photograph by Jonathan Sachs / Jonathan Sachs Graphics, Inc.
   image-alt: A grey-haired bespectacled gentleman stands with four protective-goggle
     wearing students over the frame of a wooden structure.
+parent_uid: 38659a33-436d-bde7-c9d6-e20765d008ed
 resourcetype: Image
 title: Image1.jpg
 uid: f66fb7fd-8477-c107-2a83-4605d4398417

@@ -119,7 +119,7 @@ Mostly juniors and seniors
 
 ### Typical Student Background
 
-Prior to enrolling in the course, one student had taken [_21H.141 Renaissance To Revolution: Europe, 1300-1800_](/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/). Another had taken [_21H.009 The World: 1400-Present_](/courses/21h-009-the-world-1400-present-spring-2014/)_._ The rest were new to the material. None of the students had built a printing press previously, and only two were aware of MIT’s [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html).
+Prior to enrolling in the course, one student had taken [_21H.141 Renaissance To Revolution: Europe, 1300-1800_](/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015). Another had taken [_21H.009 The World: 1400-Present_](/courses/21h-009-the-world-1400-present-spring-2014)_._ The rest were new to the material. None of the students had built a printing press previously, and only two were aware of MIT’s [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html).
 
 Some of the students were also participants in the [Concourse](http://concourse.mit.edu/) program at MIT. Among other things, the Concourse project engages students in collective deep reading in the humanities and was a critical factor in generating enthusiasm for the course.
 

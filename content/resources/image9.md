@@ -7,6 +7,7 @@ image_metadata:
   caption: Professor McCants gathers a piece of dried paper, ready for printing.
   credit: Photograph by Jonathan Sachs / Jonathan Sachs Graphics, Inc.
   image-alt: A smiling, bespectacled woman carries a flat, thin, rough-edged object.
+parent_uid: 38659a33-436d-bde7-c9d6-e20765d008ed
 resourcetype: Image
 title: Image9.jpg
 uid: 2304bf16-c67a-86ac-a88e-681a582c889b

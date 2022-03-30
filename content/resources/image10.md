@@ -8,6 +8,7 @@ image_metadata:
   credit: Photograph by Kathryn O'Neill / Senior Writer, SHASS Communications.
   image-alt: A thin, rough-edged, pink-tinged piece of paper with an emblem and the
     text "Stenographer's Notebook" printed on it.
+parent_uid: 38659a33-436d-bde7-c9d6-e20765d008ed
 resourcetype: Image
 title: Image10.jpg
 uid: a7d03580-f2db-c7f8-9f56-9532db001cc9

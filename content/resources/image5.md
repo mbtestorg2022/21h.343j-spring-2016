@@ -7,6 +7,7 @@ image_metadata:
   caption: The completed printing press.
   credit: Photograph by Jeffrey Ravel.
   image-alt: A structure comprised of individual pieces of wood.
+parent_uid: 38659a33-436d-bde7-c9d6-e20765d008ed
 resourcetype: Image
 title: Image5.jpg
 uid: 9aaee7b4-ed1f-3730-bb14-50cf52cab672

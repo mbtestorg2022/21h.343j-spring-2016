@@ -51,6 +51,7 @@ image_metadata:
   credit: Image by Ken Stone, MIT Hobby Shop
   image-alt: A line drawing showing the side view of a printing press with words identifying
     specific parts.
+parent_uid: d5eb05af-c075-0701-5694-f196e945a11c
 resourcetype: Image
 title: Image 2 - Side view diagram of the Beaver Press
 uid: 959a3c47-f21d-78f9-9d42-c7467a08d4d1
